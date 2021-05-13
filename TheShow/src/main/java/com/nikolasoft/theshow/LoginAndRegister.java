@@ -185,7 +185,6 @@ public class LoginAndRegister extends javax.swing.JFrame {
                                 if((newlinesFound%3)==EmailOrUsername && ReadEmail == ActiveAccount.email)
                                 {
                                     Gottem = true;
-                                    Gottem = false; //lol test
                                 }
                                 ReadEmail = null;
                                 newlinesFound++;
