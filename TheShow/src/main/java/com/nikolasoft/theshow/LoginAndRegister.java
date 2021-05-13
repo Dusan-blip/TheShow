@@ -72,9 +72,9 @@ public class LoginAndRegister extends javax.swing.JFrame {
 
 
         Class c = getClass();
-        jLabel1.setIcon(new javax.swing.ImageIcon("src/main/java/com/nikolasoft/theshow/slika2.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("TheShow/src/main/java/com/nikolasoft/theshow/slika2.jpg")); // NOI18N
 
-        System.out.println(LoginAndRegister.class.getClassLoader().getResource("/slika2.jpg"));
+
         jLabel1.setText("LOGO");
         jLabel1.setToolTipText("");
 
